@@ -1,4 +1,4 @@
-👋 Hi, I’m Sudhir. I am currently working as an Associate Imaging Scientist at Corteva Agriscience. 
+👋 Hi, I’m Sudhir. I am currently working as an Lead Imaging Scientist at Corteva Agriscience. 
 My Ph.D. research involved designing image processing techniques and computational models that 
 can facilitate automated cervical cancer diagnosis from histopathologic images of tissue biopsies. 
 I have worked with various biomedical image databases like cervical histology (microscopy images), 
